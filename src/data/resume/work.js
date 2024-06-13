@@ -13,54 +13,43 @@
  */
 const work = [
   {
-    name: 'Smile Identity',
-    position: 'Student',
-    url: 'https://smileidentity.com',
-    startDate: '2022-10-01',
-    summary: `Smile builds machine learning APIs to compare user submitted photos to ID documents. Our APIs are
-    used by hundreds of thousands of people every day to access financial services. As VP of Engineering,
-    I provide technical leadership on high-impact projects, influence and coach a distributed team of engineers,
-    and facilitate alignment and clarity across teams on goals, outcomes, and timelines. I was promoted
-    from Director of Engineering to VP of Engineering in April 2022, and then to VP of Engineering and Head
-    of AI in November 2022. I lead a 20+ person engineering org. I directly manage ~8 engineers and spend
-    >50% of my time writing code.`,
+    name: 'AI Tutor--picky tutor (currently working on)',
+    position: 'creator',
+    url: 'https://github.com/Ip-12345',
+    startDate: '2024-05-19',
+    summary: ` Developing an AI  based tutor as a value addition for students, professors, learners and creators, decreasing the manual dependency to clarify doubts and learn via virtual interaction.`,
     highlights: [
-      'Redesigned engineering processes for bug tracking, meetings, and standups. Improved culture for code reviews, blameless post-mortems, and retrospectives.',
-      'Re-architected engineering hiring and onboarding processes. Recruited several strong engineers.',
-      'Reorged engineering teams to focus on product delivery. Created a new team to focus on ML infrastructure.',
-      'Lead re-design of internal APIs for inference. Built new computer vision pipelines for industry leading certifications (NIST/iBeta liveness).',
-      'Pitched, designed, developed, deployed, and maintain a fraud detection product based on 1-N facial recognition using embeddings and vector search.',
+      'Implemented using CSS, React, Express.js for the frontend and JavaScript for the backend. ',
+      'Applied UI to build the website via smooth interaction and Oauth2.O for a secured and authenticated system.',
+      'Used LLMs like GPT and BERT for manipulation, generation and interpretability of data',
+      'Used  various concepts of machine learning such as NLP, Neural network architectures like Transformers and Data Science for the data analysis and knowledge extraction.',
     ],
   },
   {
-    name: 'Skeptical Investments',
-    position: 'Co-founder',
-    url: 'http://skepticalinvestments.biz',
-    startDate: '2017-04-01',
-    summary: `Skeptical Investments is a micro-vc fund focused on Angel, Seed, and Series-A
-    YC companies.`,
+    name: 'Sentiment Analysis of Location Reviews',
+    position: 'creator',
+    url: 'https://github.com/Ip-12345',
+    startDate: '2024-06-02',
+    summary: `Developed a machine learning model to analyze and classify user reviews of locations as positive or negative.
+    Collected and preprocessed a dataset of user reviews from sources such as noBroker.`,
     highlights: [
-      'Created the InstaSafe. Fast, automated investment docs for YC companies.',
-      'Advise several startups in the fund.',
+      'Performed data cleaning, including tokenization, stop-word removal, and stemming, to prepare text data for analysis using Scikit-learn.',
+      'Fine-tuned hyperparameters and evaluated model performance using cross-validation and metrics such as accuracy,  precision, recall, and F1-score.',
+      'Collaborated with frontend developers to integrate the sentiment analysis API into a web application, providing users with real-time feedback on location reviews.',
     ],
   },
   {
-    name: 'Arthena',
-    position: 'Co-founder & C.T.O.',
-    url: 'https://arthena.com',
-    startDate: '2014-01-01',
-    endDate: '2022-01-01',
-    summary: `Arthena is a Series A Company funded by <a href="https://www.anthemis.com/">Athemis</a>,
-    <a href="https://foundationcapital.com">Foundation Capital</a>, and <a href="https://ycombinator.com/">YC</a>.
-    We develop quantitative strategies to predict the value of fine art and build investment products.
-    I ran a 20-person product and engineering org for 8 years. We were acquired by
-    <a href="https://www.masterworks.com/">Masterworks</a> in 2023.`,
+    name: 'Personal Portfolio Website ',
+    position: 'creator',
+    url: 'https://github.com/Ip-12345',
+    startDate: '2024-06-10',
+    endDate: '2024-06-14',
+    summary: `Developed a personal portfolio website using React, showcasing details about me, my resume, and travel experiences.`,
     highlights: [
-      'Built production, online, end-to-end optimized machine learning pipelines for time-series prediction.',
-      'Designed micro-service architecture around: data collection, data integrity, feature engineering, research, strategy, backtesting, deployment, and reporting.',
-      "Set and communicated team priorities that supported the broader organization's goals. Aligned strategy, processes, and decision-making across teams.",
-      "Set clear expectations with individuals based on their level and role and aligned them to the broader organization's goals. Met regularly with individuals to discuss performance and development, and provided feedback and coaching.",
-      'Developed the long-term technical vision and roadmap within, and often beyond, the scope of my teams. Evolved the roadmap to meet anticipated future requirements and infrastructure needs.',
+      ' Styled components using CSS modules/ Styled-Components/ Sass, adhering to modern web design principles.',
+      'Designed and implemented a responsive user interface to ensure compatibility across various devices and screen sizes. ',
+      "Implemented routing using React Router to navigate between different sections of the website seamlessly.",
+      "Ensured cross-browser compatibility, providing a consistent experience across different browsers.",
     ],
   },
 ];
