@@ -6,8 +6,6 @@ Hello viewers! This is Indupriya, a sophomore, currently pursuing B.Tech in Comp
 
 - My parents put a computer in my bedroom in 2014 when I was 10. It was an old Tandy that ran MS-DOS. My favorite games were Street Rod 2, Wolfenstein 3D, Pokemon go, and Tom and Jerry. It had a mechanical keyboard and a turbo button. To this day, I still don't know what pressing the turbo button really did.
 
-- In the summer of 1996, my uncle purchased [MegaRace](https://en.wikipedia.org/wiki/MegaRace) from [Media Play](https://en.wikipedia.org/wiki/Media_Play) and installed it on my mom's work computer. I might have endangered her business by using her computer too much.
-
 - At 7, I discovered the mini-games hidden in Microsoft Office. I also beat Minesweeper on expert for the first time.
 
 - At 8, my parents bought me a Nexus 7 tablet which turned me into a gadget addict.
