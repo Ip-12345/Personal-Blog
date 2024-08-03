@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/Personal-Blog/static/css/main.3fc8ac9a.css",
+    "main.js": "/Personal-Blog/static/js/main.7a9147bc.js",
+    "static/js/964.36a0c1cd.chunk.js": "/Personal-Blog/static/js/964.36a0c1cd.chunk.js",
+    "static/js/117.ac788db4.chunk.js": "/Personal-Blog/static/js/117.ac788db4.chunk.js",
+    "static/js/478.5c2233ef.chunk.js": "/Personal-Blog/static/js/478.5c2233ef.chunk.js",
+    "static/js/922.607f6821.chunk.js": "/Personal-Blog/static/js/922.607f6821.chunk.js",
+    "static/js/161.a7b137b7.chunk.js": "/Personal-Blog/static/js/161.a7b137b7.chunk.js",
+    "static/js/18.179b09cf.chunk.js": "/Personal-Blog/static/js/18.179b09cf.chunk.js",
+    "static/js/248.c0a44feb.chunk.js": "/Personal-Blog/static/js/248.c0a44feb.chunk.js",
+    "static/js/209.4c3de6c9.chunk.js": "/Personal-Blog/static/js/209.4c3de6c9.chunk.js",
+    "static/js/625.5ea23a0e.chunk.js": "/Personal-Blog/static/js/625.5ea23a0e.chunk.js",
+    "static/js/745.5485ea10.chunk.js": "/Personal-Blog/static/js/745.5485ea10.chunk.js",
+    "static/media/about.md": "/Personal-Blog/static/media/about.90b6e4ee868a22349cb8.md",
+    "index.html": "/Personal-Blog/index.html",
+    "main.3fc8ac9a.css.map": "/Personal-Blog/static/css/main.3fc8ac9a.css.map",
+    "main.7a9147bc.js.map": "/Personal-Blog/static/js/main.7a9147bc.js.map",
+    "964.36a0c1cd.chunk.js.map": "/Personal-Blog/static/js/964.36a0c1cd.chunk.js.map",
+    "117.ac788db4.chunk.js.map": "/Personal-Blog/static/js/117.ac788db4.chunk.js.map",
+    "478.5c2233ef.chunk.js.map": "/Personal-Blog/static/js/478.5c2233ef.chunk.js.map",
+    "922.607f6821.chunk.js.map": "/Personal-Blog/static/js/922.607f6821.chunk.js.map",
+    "161.a7b137b7.chunk.js.map": "/Personal-Blog/static/js/161.a7b137b7.chunk.js.map",
+    "18.179b09cf.chunk.js.map": "/Personal-Blog/static/js/18.179b09cf.chunk.js.map",
+    "248.c0a44feb.chunk.js.map": "/Personal-Blog/static/js/248.c0a44feb.chunk.js.map",
+    "209.4c3de6c9.chunk.js.map": "/Personal-Blog/static/js/209.4c3de6c9.chunk.js.map",
+    "745.5485ea10.chunk.js.map": "/Personal-Blog/static/js/745.5485ea10.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3fc8ac9a.css",
+    "static/js/main.7a9147bc.js"
+  ]
+}
